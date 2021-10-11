@@ -68,3 +68,7 @@ You can remote control your Switch using Parsec with this (enabling remote multi
 ### [pPlay](https://github.com/Cpasjuste/pplay)
 
 A media player (MPV port)
+
+### [JKSV](https://github.com/J-D-K/JKSV)
+
+A save manager (backup & restore game saves).
