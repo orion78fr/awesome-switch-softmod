@@ -25,6 +25,26 @@ Allows auto-inject payload on Switch connection.
 Allows you to launch unsigned software on switch.  
 As this allows illegal things, I won't link to it directly, but you can find them on the "Temporary Game Boy Advance" forums.
 
+## Updaters
+
+### Daybreak
+
+Included in Atmosphere, installs downloaded firmware from the SD.
+
+### [NightFall](https://github.com/D3fau4/NightFall)
+
+Online updater for Atmosphere EmuMMC.
+
+## Installers
+
+### [TinWoo](https://github.com/mrdude2478/TinWoo)
+
+A .nsp / .nsz / .xci / .xcz installer.
+
+### [NS-USBLoader](https://github.com/developersu/ns-usbloader)
+
+Use USB or WiFi to transfer files to TinWoo.
+
 ## Utilities
 
 ### [sys-ftpd-light](https://github.com/cathery/sys-ftpd-light)
@@ -44,13 +64,3 @@ Use non-Switch controllers directly on the switch with Bluetooth without adapter
 
 Control the Switch from a computer.  
 You can remote control your Switch using Parsec with this (enabling remote multiplayer).
-
-## Installers
-
-### [TinWoo](https://github.com/mrdude2478/TinWoo)
-
-A .nsp / .nsz / .xci / .xcz installer.
-
-### [NS-USBLoader](https://github.com/developersu/ns-usbloader)
-
-Use USB or WiFi to transfer files to TinWoo.
