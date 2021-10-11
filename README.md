@@ -1,6 +1,7 @@
 # Awesome Switch Softmod
 
-A collection of Nintendo Switch softmod resources
+A collection of Nintendo Switch softmod resources.  
+❔ = haven't tested it myself.
 
 ## Payloads & injectors
 
@@ -31,7 +32,7 @@ As this allows illegal things, I won't link to it directly, but you can find the
 
 Included in Atmosphere, installs downloaded firmware from the SD.
 
-### [NightFall](https://github.com/D3fau4/NightFall)
+### [NightFall](https://github.com/D3fau4/NightFall) ❔
 
 Online updater for Atmosphere EmuMMC.
 
@@ -47,7 +48,7 @@ Use USB or WiFi to transfer files to TinWoo.
 
 ## Utilities
 
-### [sys-ftpd-light](https://github.com/cathery/sys-ftpd-light)
+### [sys-ftpd-light](https://github.com/cathery/sys-ftpd-light) ❔
 
 A background ftp server to do transfers on the SD card.
 
@@ -55,21 +56,21 @@ A background ftp server to do transfers on the SD card.
 
 A ftp server, but not background (.nro is the Switch release).
 
-### [Emuiibo](https://github.com/XorTroll/emuiibo)
+### [Emuiibo](https://github.com/XorTroll/emuiibo) ❔
 
 An amiibo emulator.  
 You can create amiibo on your computer, transfer them on the Switch and use them in games using an overlay.
 
-### [MissionControl](https://github.com/ndeadly/MissionControl)
+### [MissionControl](https://github.com/ndeadly/MissionControl) ❔
 
 Use non-Switch controllers directly on the switch with Bluetooth without adapters.
 
-### [sys-hidplus](https://github.com/PaskaPinishkes/sys-hidplus)
+### [sys-hidplus](https://github.com/PaskaPinishkes/sys-hidplus) ❔
 
 Control the Switch from a computer.  
 You can remote control your Switch using Parsec with this (enabling remote multiplayer).
 
-### [pPlay](https://github.com/Cpasjuste/pplay)
+### [pPlay](https://github.com/Cpasjuste/pplay) ❔
 
 A media player (MPV port)
 
