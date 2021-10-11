@@ -64,3 +64,7 @@ Use non-Switch controllers directly on the switch with Bluetooth without adapter
 
 Control the Switch from a computer.  
 You can remote control your Switch using Parsec with this (enabling remote multiplayer).
+
+### [pPlay](https://github.com/Cpasjuste/pplay)
+
+A media player (MPV port)
