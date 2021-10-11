@@ -51,6 +51,10 @@ Use USB or WiFi to transfer files to TinWoo.
 
 A background ftp server to do transfers on the SD card.
 
+### [FTPd Pro](https://github.com/mtheall/ftpd)
+
+A ftp server, but not background (.nro is the Switch release).
+
 ### [Emuiibo](https://github.com/XorTroll/emuiibo)
 
 An amiibo emulator.  
