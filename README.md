@@ -6,7 +6,17 @@ A collection of Nintendo Switch softmod resources
 
 The main software for the Switch softmod.  
 Replace some part of the OS and allows patching others.  
-Enables EmuNAND (a safe copy of the system on the SD card to leave no trace on the system itself).
+Enables EmuMMC (a safe copy of the system on the SD card to leave no trace on the system itself).
+
+## [Hekate](https://github.com/CTCaer/hekate)
+
+A GUI Bootloader for the Switch.  
+You can do a lot of things with this, like enabling AutoRCM, connect the Switch SD or internal storage as mass storage, create EmuMMC partition...
+
+## [TegraRcmGUI](https://github.com/eliboa/TegraRcmGUI)
+
+A Windows GUI for payload injection (for Atmosphere & Hekate).  
+Allows auto-inject payload on Switch connection.
 
 ## [sys-ftpd-light](https://github.com/cathery/sys-ftpd-light)
 
