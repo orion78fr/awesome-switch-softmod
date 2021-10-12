@@ -77,3 +77,10 @@ A media player (MPV port)
 ### [JKSV](https://github.com/J-D-K/JKSV)
 
 A save manager (backup & restore game saves).
+
+## Emulators
+
+### [RetroArch](https://retroarch.com/?page=platforms)
+
+A multi-system emulator.  
+Probably the only one you will need as you can download cores for most consoles (NES / SNES / GB / GBA / DS / MS / Dreamcast / Arcade...).
