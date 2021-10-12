@@ -50,16 +50,20 @@ Use USB or WiFi to transfer files to TinWoo.
 
 ### [sys-ftpd-light](https://github.com/cathery/sys-ftpd-light) ❔
 
-A background ftp server to do transfers on the SD card.
+A background FTP server to do transfers on the SD card.
 
 ### [FTPd Pro](https://github.com/mtheall/ftpd)
 
-A ftp server, but not background (.nro is the Switch release).
+A FTP server, but not background (.nro is the Switch release).
 
 ### [Emuiibo](https://github.com/XorTroll/emuiibo) ❔
 
-An amiibo emulator.  
-You can create amiibo on your computer, transfer them on the Switch and use them in games using an overlay.
+An Amiibo emulator.  
+You can create Amiibo on your computer, transfer them on the Switch and use them in games using an overlay.
+
+### [Amiigo](https://github.com/CompSciOrBust/Amiigo) ❔
+
+Same as Emuiibo computer part (Amiibo creation) but on the switch. Still requires Emuiibo.
 
 ### [MissionControl](https://github.com/ndeadly/MissionControl) ❔
 
@@ -72,7 +76,7 @@ You can remote control your Switch using Parsec with this (enabling remote multi
 
 ### [pPlay](https://github.com/Cpasjuste/pplay) ❔
 
-A media player (MPV port)
+A media player (MPV port).
 
 ### [JKSV](https://github.com/J-D-K/JKSV)
 
