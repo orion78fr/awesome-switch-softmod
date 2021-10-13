@@ -3,6 +3,12 @@
 A collection of Nintendo Switch softmod resources.  
 ❔ = haven't tested it myself.
 
+## Softmod tutorial
+
+The one I personnally used is : https://nh-server.github.io/switch-guide/  
+I know this one too : https://switch.homebrew.guide/  
+Don't use video guides, they tend to not age well and be full of approximations. You can brick your switch with these. Prefer a well written guide that can be maintained up to date !
+
 ## Payloads & injectors
 
 ### [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere)
