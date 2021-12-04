@@ -48,6 +48,11 @@ Online updater for Atmosphere EmuMMC.
 
 ## Installers
 
+### [Tinfoil](https://tinfoil.io)
+
+This is an installer which has a nice feature called shops, which downloads games, DLC and updates directly from the switch.  
+A shop I recommand (but won't link for obvious reasons) is "carcaschoi ultimate shop" which adds a selection of shops automatically.
+
 ### [TinWoo](https://github.com/mrdude2478/TinWoo)
 
 A .nsp / .nsz / .xci / .xcz installer.
