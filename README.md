@@ -38,6 +38,10 @@ As this allows illegal things, I won't link to it directly, but you can find the
 
 Included in Atmosphere, installs downloaded firmware from the SD.
 
+### [AIO Switch Updater](https://github.com/HamletDuFromage/aio-switch-updater)
+
+Updates Atmosphere, Sigpatches, downloads firmwares...
+
 ### [NightFall](https://github.com/D3fau4/NightFall) ❔
 
 Online updater for Atmosphere EmuMMC.
