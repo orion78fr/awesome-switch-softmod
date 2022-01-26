@@ -55,7 +55,7 @@ A shop I recommand (but won't link for obvious reasons) is "carcaschoi ultimate 
 
 ### [TinWoo](https://github.com/mrdude2478/TinWoo)
 
-A .nsp / .nsz / .xci / .xcz installer.
+A .nsp / .nsz / .xci / .xcz installer. An alternative to Awoo without anime NSFW.
 
 ### [NS-USBLoader](https://github.com/developersu/ns-usbloader)
 
@@ -84,10 +84,12 @@ Same as Emuiibo computer part (Amiibo creation) but on the switch. Still require
 
 Use non-Switch controllers directly on the switch with Bluetooth without adapters.
 
-### [sys-hidplus](https://github.com/PaskaPinishkes/sys-hidplus) ❔
+### [sys-hidplus](https://github.com/PaskaPinishkes/sys-hidplus)
 
 Control the Switch from a computer.  
-You can remote control your Switch using Parsec with this (enabling remote multiplayer).
+You can remote control your Switch using [Parsec](https://parsec.app/) with this (enabling remote multiplayer or remote play).  
+Works surprisingly well, effortlessly and with low latency.  
+I used the [sys-hidplus client](https://github.com/PaskaPinishkes/SwitchSysHidplusClient) on the computer after installing the sysmodule on the Switch.
 
 ### [pPlay](https://github.com/Cpasjuste/pplay) ❔
 
