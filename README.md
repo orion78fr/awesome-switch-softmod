@@ -42,7 +42,7 @@ Included in Atmosphere, installs downloaded firmware from the SD.
 
 Updates Atmosphere, Sigpatches, downloads firmwares...
 
-### [NightFall](https://github.com/D3fau4/NightFall) ❔
+### [NightFall](https://github.com/D3fau4/NightFall) ⚠️ Crashed for me after download
 
 Online updater for Atmosphere EmuMMC.
 
