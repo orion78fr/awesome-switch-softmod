@@ -57,6 +57,10 @@ A shop I recommand (but won't link for obvious reasons) is "carcaschoi ultimate 
 
 A .nsp / .nsz / .xci / .xcz installer. An alternative to Awoo without anime NSFW.
 
+### [AtmoXL-Titel-Installer](https://github.com/dezem/AtmoXL-Titel-Installer) ❔
+
+Another fork of Awoo.
+
 ### [NS-USBLoader](https://github.com/developersu/ns-usbloader)
 
 Use USB or WiFi to transfer files to TinWoo.
