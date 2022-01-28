@@ -44,7 +44,8 @@ Updates Atmosphere, Sigpatches, downloads firmwares...
 
 ### [NightFall](https://github.com/D3fau4/NightFall) ⚠️ Crashed for me after download
 
-Online updater for Atmosphere EmuMMC.
+Online updater for Atmosphere EmuMMC.  
+As it crashed for me after the download, I recommend downloading with AIO Updater then installing it with Daybreak.
 
 ## Installers
 
