@@ -103,6 +103,14 @@ A media player (MPV port).
 
 A save manager (backup & restore game saves).
 
+## Overlays
+
+
+Using [nx-ovlloader](https://github.com/WerWolv/nx-ovlloader), you can have overlays for different utilities.  
+You need to install [Tesla menu](https://github.com/WerWolv/Tesla-Menu) to switch between overlays.
+
+You can have a list of available overlays there : https://github.com/n00mkrad/tesla-overlays-list
+
 ## Emulators
 
 ### [RetroArch](https://retroarch.com/?page=platforms)
