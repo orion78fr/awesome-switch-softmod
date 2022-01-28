@@ -46,7 +46,7 @@ Included in Atmosphere, installs downloaded firmware from the SD.
 
 Updates Atmosphere, Sigpatches, downloads firmwares...
 
-### [NightFall](https://github.com/D3fau4/NightFall) ⚠️ Crashed for me after download
+### [NightFall](https://github.com/D3fau4/NightFall) ⚠️ Crashed for me after download, I recommend above methods
 
 Online updater for Atmosphere EmuMMC.  
 As it crashed for me after the download, I recommend downloading with AIO Updater then installing it with Daybreak.
@@ -72,9 +72,12 @@ Use USB or WiFi to transfer files to TinWoo.
 
 ## Utilities
 
-### [sys-ftpd-light](https://github.com/cathery/sys-ftpd-light) ❔
+### [sys-ftpd-light](https://github.com/cathery/sys-ftpd-light)
 
-A background FTP server to do transfers on the SD card.
+A background FTP server to do transfers on the SD card.  
+Works great, but only one transfer in parallel is possible.  
+Home button on joycon glows when a transfer is happening.  
+Don't forget to set up user / password in `/config/sys-ftpd/config.ini` to disallow unauthenticated connections.
 
 ### [FTPd Pro](https://github.com/mtheall/ftpd)
 
@@ -89,9 +92,10 @@ You can create Amiibo on your computer, transfer them on the Switch and use them
 
 Same as Emuiibo computer part (Amiibo creation) but on the switch. Still requires Emuiibo.
 
-### [MissionControl](https://github.com/ndeadly/MissionControl) ❔
+### [MissionControl](https://github.com/ndeadly/MissionControl)
 
-Use non-Switch controllers directly on the switch with Bluetooth without adapters.
+Use non-Switch controllers directly on the switch with Bluetooth without adapters.  
+Tested it with an Xbox one X controller.
 
 ### [sys-hidplus](https://github.com/PaskaPinishkes/sys-hidplus)
 
@@ -109,7 +113,6 @@ A media player (MPV port).
 A save manager (backup & restore game saves).
 
 ## Overlays
-
 
 Using [nx-ovlloader](https://github.com/WerWolv/nx-ovlloader), you can have overlays for different utilities.  
 You need to install [Tesla menu](https://github.com/WerWolv/Tesla-Menu) to switch between overlays.
