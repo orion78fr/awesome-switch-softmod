@@ -119,6 +119,8 @@ You need to install [Tesla menu](https://github.com/WerWolv/Tesla-Menu) to switc
 
 You can have a list of available overlays there : https://github.com/n00mkrad/tesla-overlays-list
 
+To open them, you use `L + Dpad Down + Right Stick`.
+
 ## Emulators
 
 ### [RetroArch](https://retroarch.com/?page=platforms)
