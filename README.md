@@ -34,6 +34,10 @@ As this allows illegal things, I won't link to it directly, but you can find the
 
 ## Updaters
 
+### Downloading updates from computer
+
+I recommend this website : https://darthsternie.net/switch-firmwares/
+
 ### Daybreak
 
 Included in Atmosphere, installs downloaded firmware from the SD.
