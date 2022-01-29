@@ -114,7 +114,7 @@ A save manager (backup & restore game saves).
 
 ### [Edizon](https://github.com/WerWolv/EdiZon)
 
-A save editor and cheat enabler. Has an overlay.
+A save editor and cheat enabler. Has an overlay.  
 If you plan on using cheats, remember to set `dmnt_cheats_enabled_by_default = u8!0x0` in `/atmosphere/system_settings.ini` to avoid enabling cheats by default but only via edizon.
 
 ## Overlays
