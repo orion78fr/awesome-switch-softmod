@@ -27,6 +27,10 @@ You can do a lot of things with this, like enabling AutoRCM, connect the Switch 
 A Windows GUI for payload injection (for Atmosphere & Hekate).  
 Allows auto-inject payload on Switch connection.
 
+### [Rekado](https://github.com/MenosGrante/Rekado)
+
+Same, but for Android with USB c to c cable
+
 ### Sigcheck patches
 
 Allows you to launch unsigned software on switch.  
@@ -46,11 +50,6 @@ Included in Atmosphere, installs downloaded firmware from the SD.
 
 Updates Atmosphere, Sigpatches, downloads firmwares...
 
-### [NightFall](https://github.com/D3fau4/NightFall) ⚠️ Crashed for me after download, I recommend above methods
-
-Online updater for Atmosphere EmuMMC.  
-As it crashed for me after the download, I recommend downloading with AIO Updater then installing it with Daybreak.
-
 ## Installers
 
 ### [Tinfoil](https://tinfoil.io/Download#download) ⚠️ Not open source !
@@ -58,17 +57,17 @@ As it crashed for me after the download, I recommend downloading with AIO Update
 This is an installer which has a nice feature called shops, which downloads games, DLC and updates directly from the switch.  
 A shop I recommand (but won't link for obvious reasons) is "carcaschoi ultimate shop" which adds a selection of shops automatically.
 
-### [TinWoo](https://github.com/mrdude2478/TinWoo)
+### [Goldleaf](https://github.com/XorTroll/Goldleaf)
 
-A .nsp / .nsz / .xci / .xcz installer. An alternative to Awoo without anime NSFW.
+An NSP installer
 
-### [AtmoXL-Titel-Installer](https://github.com/dezem/AtmoXL-Titel-Installer) ❔
+### [Awoo](https://github.com/Huntereb/Awoo-Installer)
 
-Another fork of Awoo.
+An NSP, NSZ, XCI, and XCZ Installer (supports more formats than Goldleaf but has anime NSFW on home page).
 
 ### [NS-USBLoader](https://github.com/developersu/ns-usbloader)
 
-Use USB or WiFi to transfer files to TinWoo.
+Use USB or WiFi to transfer files to Awoo.
 
 ## Utilities
 
