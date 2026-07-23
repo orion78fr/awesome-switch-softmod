@@ -30,7 +30,7 @@ Allows auto-inject payload on Switch connection.
 
 Same, but for Android with USB c to c cable
 
-### Sigcheck patches
+### Sys-Patch Sysmodule
 
 Allows you to launch unsigned software on switch.  
 As this allows illegal things, I won't link to it directly, but you can find them on the "Temporary Game Boy Advance" forums.
