@@ -102,6 +102,12 @@ You can remote control your Switch using [Parsec](https://parsec.app/) with this
 Works surprisingly well, effortlessly and with low latency.  
 I used the [sys-hidplus client](https://github.com/PaskaPinishkes/SwitchSysHidplusClient) on the computer after installing the sysmodule on the Switch.
 
+### [Switch Frame Tap](https://github.com/TomasUribe/switch-frame-tap) ❔
+
+Stream your games to a computer (Windows, Linux, macOS) at up to 1080p60 with sound, over USB-C or the network.  
+Play a Switch Lite on a big screen, record gameplay without a capture card, take native-resolution screenshots.  
+A background sysmodule with a manager app and an overlay; also on the Homebrew App Store.
+
 ### [pPlay](https://github.com/Cpasjuste/pplay) ❔
 
 A media player (MPV port).
